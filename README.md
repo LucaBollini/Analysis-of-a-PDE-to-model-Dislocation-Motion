@@ -1,2 +1,3 @@
-# Analysis-of-a-PDE-to-model-Dislocation-Motion
-Files for my fourth-year R-project
+This is the GitHub page for my Fourth Year R-Project:
+
+**Analysis of a PDE to model Dislocation Motion.**
